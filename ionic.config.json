@@ -1,0 +1,8 @@
+{
+  "name": "Shopr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "7003e2e0"
+}
